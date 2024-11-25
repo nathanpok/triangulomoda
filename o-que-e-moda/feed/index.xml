@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comentários sobre Triangulo Moda	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	Comentários sobre: O que é moda?	</title>
+	<atom:link href="/o-que-e-moda/feed/" rel="self" type="application/rss+xml" />
+	<link>/o-que-e-moda/</link>
 	<description>Site de moda e beleza</description>
 	<lastBuildDate>Mon, 25 Nov 2024 02:11:14 +0000</lastBuildDate>
 	<sy:updatePeriod>
